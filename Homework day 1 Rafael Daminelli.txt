@@ -1,0 +1,25 @@
+????? | ????-??????????? | ??????? ???????? | ??????? ?????????? ?? ??????
+----- | ---------------- | ------- -------- | ------- ---------- -- ------
+AJCJC | LZPD-LDYFDZIIPQF | ZEWPBYD ICCUPQFB | ICBBZFC PQBUDJKUYD YD ICQUYD
+
+A = Q   C = E   I = M    L = P   Q = N   Y = O
+
+#replace known letters (uppercase), write letters to be guessed in lowercase:
+
+QjEjE | Pzpd-PdOfdzMMpNf | zewpbOd MEEupNfb | MEbbzfE pqbudjkuOd Od MENuOd
+
+#guessing words, and replacing letters: 
+
+j = U   
+b = S
+z = A
+f = G
+p = I
+u = T
+d = R
+e = D
+b = V
+q = N
+k = C
+
+QUEUE | PAIR-PROGRAMMING | ADVISOR MEETINGS | MESSAGE INSTRUCTOR OR MENTOR
